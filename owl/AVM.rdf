@@ -5,21 +5,21 @@
   <!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <!ENTITY rdfs "http://www.w3.org/2000/01/rdf-schema#">
   <!ENTITY xsd "http://www.w3.org/2001/XMLSchema#">
-  <!ENTITY dc   "http://purl.org/dc/elements/1.1/" > 
-  <!ENTITY dct   "http://purl.org/dc/terms/" > 
+  <!ENTITY dc   "http://purl.org/dc/elements/1.1/" >
+  <!ENTITY dct   "http://purl.org/dc/terms/" >
 
   <!ENTITY skos "http://www.w3.org/2008/05/skos#">
-  <!ENTITY foaf "http://xmlns.com/foaf/0.1/"> 
-      <!-- Main namespace --> 
+  <!ENTITY foaf "http://xmlns.com/foaf/0.1/">
+      <!-- Main namespace -->
   <!ENTITY avm "http://www.ivoa.net/rdf/Vocabularies/AVM">
-  
-  <!ENTITY local "file:///home/rdave/Projects/adsonto/packages/pellet-1.3/AVM.rdf"> 
-  	<!ENTITY path "http://semantics.ads.org/ontologies/0.1/AVM.owl"> 
-  	<!ENTITY file "local;"> 
-  <!ENTITY foaf-local "file:///home/rdave/Projects/adsonto/packages/pellet-1.3/foaf-essential.owl">	
+
+  <!ENTITY local "file:///home/rdave/Projects/adsonto/packages/pellet-1.3/AVM.rdf">
+  	<!ENTITY path "http://semantics.ads.org/ontologies/0.1/AVM.owl">
+  	<!ENTITY file "local;">
+  <!ENTITY foaf-local "file:///home/rdave/Projects/adsonto/packages/pellet-1.3/foaf-essential.owl">
   <!ENTITY foaf-path "http://swan.mindinformatics.org/ontologies/1.2/foaf-essential.owl">
   <!ENTITY foaf-file "&foaf-local;">
-  <!ENTITY skos-local "file:///home/rdave/Projects/adsonto/packages/pellet-1.3/skos-essential.owl">	
+  <!ENTITY skos-local "file:///home/rdave/Projects/adsonto/packages/pellet-1.3/skos-essential.owl">
   <!ENTITY skos-path "http://swan.mindinformatics.org/ontologies/1.2/skos-essential.owl">
   <!ENTITY skos-file "&skos-path;">
 ]>
@@ -31,31 +31,31 @@
    xmlns:rdf="&rdf;"
    xmlns:rdfs="&rdfs;"
    xmlns:owl="&owl;"
-   xmlns:skos="&skos;" 
+   xmlns:skos="&skos;"
    xml:base="&avm;">
 
-    <owl:Ontology rdf:about="&file;"> 
-		<rdf:type rdf:resource="&owl;Ontology"/> 
-		<rdfs:label rdf:datatype="&xsd;string">AVM: ADS OWL_DL version</rdfs:label> 
- 
-    	<owl:imports rdf:resource="&foaf-file;"/> 
+    <owl:Ontology rdf:about="&file;">
+		<rdf:type rdf:resource="&owl;Ontology"/>
+		<rdfs:label rdf:datatype="&xsd;string">AVM: ADS OWL_DL version</rdfs:label>
+
+    	<owl:imports rdf:resource="&foaf-file;"/>
     	<owl:imports rdf:resource="&skos-file;"/>
-    	<dc:language>en</dc:language> 
-    	<dc:title xml:lang="en">AVM ontology</dc:title> 
-    	<dc:creator rdf:resource="http://www.ads.org/people/rahul-dave/" /> 
-    	<dc:contributor rdf:datatype="&xsd;string">Rahul Dave</dc:contributor> 
-    	<dc:publisher rdf:resource="http://semantics.ads.org" /> 
-        <dc:date rdf:datatype="&xsd;string">Thursday 04 March 2010</dc:date> 
-        <dc:format rdf:datatype="&xsd;string">rdf/xml</dc:format>    
-    </owl:Ontology>   
-   <!-- 
+    	<dc:language>en</dc:language>
+    	<dc:title xml:lang="en">AVM ontology</dc:title>
+    	<dc:creator rdf:resource="http://www.ads.org/people/rahul-dave/" />
+    	<dc:contributor rdf:datatype="&xsd;string">Rahul Dave</dc:contributor>
+    	<dc:publisher rdf:resource="http://semantics.ads.org" />
+        <dc:date rdf:datatype="&xsd;string">Thursday 04 March 2010</dc:date>
+        <dc:format rdf:datatype="&xsd;string">rdf/xml</dc:format>
+    </owl:Ontology>
+   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
     //
     // Annotation Properties
     //
     ///////////////////////////////////////////////////////////////////////////////////////
      -->
-     
+
   	<rdf:Description rdf:about="&dc;title">
   	  	<rdf:type rdf:resource="&owl;AnnotationProperty"/>
   	</rdf:Description>
@@ -77,7 +77,7 @@
   	<rdf:Description rdf:about="&dc;contributor">
     	<rdf:type rdf:resource="&owl;AnnotationProperty"/>
   	</rdf:Description>
- 
+
  <rdf:Description rdf:about="&dct;title">
   	  	<rdf:type rdf:resource="&owl;AnnotationProperty"/>
   	</rdf:Description>
@@ -94,8 +94,8 @@
     	<rdf:type rdf:resource="&owl;AnnotationProperty"/>
   	</rdf:Description>
   	 <owl:AnnotationProperty rdf:about="&skos;notation"/>
-  	 
-  	 
+
+
   <skos:ConceptScheme rdf:about="">
     <dct:created>2009-10-07</dct:created>
     <!--Improper use of dct below screated anonymous bnode for dct-creator i think and broke owl-dl compatability-->
@@ -127,12 +127,12 @@ reference document http://www.virtualastronomy.org/AVM_Version1.1May312008.pdf
     <skos:hasTopConcept rdf:resource="#avm-8"/>
     <skos:hasTopConcept rdf:resource="#avm-9"/>
   </skos:ConceptScheme>
-  
+
   <!--rdf:Description rdf:about="#_notation">
     <rdf:type rdf:resource="&rdf;datatype"/>
     <dct:description>The notation here is described in the document http://www.virtualastronomy.org/AVM_Version1.1May312008.pdf</dct:description>
   </rdf:Description-->
-  
+
   <skos:Concept rdf:about="#avm-1">
     <skos:altLabel xml:lang="en">Planet</skos:altLabel>
     <skos:inScheme rdf:resource=""/>

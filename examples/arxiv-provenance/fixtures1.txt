@@ -28,7 +28,7 @@
 :APS a adsbase:Publisher;
     foaf:name "American Physical Society";
 .
-    
+
 :PRL a cito:Journal;
     adsbib:publishedBy :APS;
 .
@@ -40,7 +40,7 @@
 :adsrdf001 a agent:Software;
     agent:softwareVersion "0.01";
 .
-    
+
 :HARVARD a foaf:Organization;
     foaf:name "Harvard University";
 .

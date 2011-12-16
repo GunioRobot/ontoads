@@ -1,4 +1,4 @@
-#retrieved 2010-05-20 15:11:33 
+#retrieved 2010-05-20 15:11:33
 @ARTICLE{2010arXiv1005.2918B,
    author = {{Bertolami}, O.},
     title = "{The Spirit of Unification: The Wei of Physics}",
@@ -67,22 +67,22 @@ archivePrefix = "arXiv",
 }
 
 @ARTICLE{2010EPJC...66..525D,
-   author = {{de Roeck}, A. and {Ellis}, J. and {Grojean}, C. and {Heinemeyer}, S. and 
-	{Jakobs}, K. and {Weiglein}, G. and {Wells}, J. and {Azuelos}, G. and 
-	{Dawson}, S. and {Gripaios}, B. and {Han}, T. and {Hewett}, J. and 
-	{Lancaster}, M. and {Mariotti}, C. and {Moortgat}, F. and {Moortgat-Pick}, G. and 
-	{Polesello}, G. and {Riemann}, S. and {Schumacher}, M. and {Assamagan}, K. and 
-	{Bechtle}, P. and {Carena}, M. and {Chachamis}, G. and {Chen}, K.~F. and 
-	{de Curtis}, S. and {Desch}, K. and {Dittmar}, M. and {Dreiner}, H. and 
-	{D{\"u}hrssen}, M. and {Foster}, B. and {Frandsen}, M.~T. and 
-	{Giammanco}, A. and {Godbole}, R. and {Gopalakrishna}, S. and 
-	{Govoni}, P. and {Gunion}, J. and {Hollik}, W. and {Hou}, W.~S. and 
-	{Isidori}, G. and {Juste}, A. and {Kalinowski}, J. and {Korytov}, A. and 
-	{Kou}, E. and {Kraml}, S. and {Krawczyk}, M. and {Martin}, A. and 
-	{Milstead}, D. and {Morton-Thurtle}, V. and {Moenig}, K. and 
-	{Mele}, B. and {Ozcan}, E. and {Pieri}, M. and {Plehn}, T. and 
-	{Reina}, L. and {Richter-Was}, E. and {Rizzo}, T. and {Rolbiecki}, K. and 
-	{Sannino}, F. and {Schram}, M. and {Smillie}, J. and {Sultansoy}, S. and 
+   author = {{de Roeck}, A. and {Ellis}, J. and {Grojean}, C. and {Heinemeyer}, S. and
+	{Jakobs}, K. and {Weiglein}, G. and {Wells}, J. and {Azuelos}, G. and
+	{Dawson}, S. and {Gripaios}, B. and {Han}, T. and {Hewett}, J. and
+	{Lancaster}, M. and {Mariotti}, C. and {Moortgat}, F. and {Moortgat-Pick}, G. and
+	{Polesello}, G. and {Riemann}, S. and {Schumacher}, M. and {Assamagan}, K. and
+	{Bechtle}, P. and {Carena}, M. and {Chachamis}, G. and {Chen}, K.~F. and
+	{de Curtis}, S. and {Desch}, K. and {Dittmar}, M. and {Dreiner}, H. and
+	{D{\"u}hrssen}, M. and {Foster}, B. and {Frandsen}, M.~T. and
+	{Giammanco}, A. and {Godbole}, R. and {Gopalakrishna}, S. and
+	{Govoni}, P. and {Gunion}, J. and {Hollik}, W. and {Hou}, W.~S. and
+	{Isidori}, G. and {Juste}, A. and {Kalinowski}, J. and {Korytov}, A. and
+	{Kou}, E. and {Kraml}, S. and {Krawczyk}, M. and {Martin}, A. and
+	{Milstead}, D. and {Morton-Thurtle}, V. and {Moenig}, K. and
+	{Mele}, B. and {Ozcan}, E. and {Pieri}, M. and {Plehn}, T. and
+	{Reina}, L. and {Richter-Was}, E. and {Rizzo}, T. and {Rolbiecki}, K. and
+	{Sannino}, F. and {Schram}, M. and {Smillie}, J. and {Sultansoy}, S. and
 	{Tattersall}, J. and {Uwer}, P. and {Webber}, B. and {Wienemann}, P.
 	},
     title = "{From the LHC to future colliders. CERN Theory Institute summary report}",
@@ -382,7 +382,7 @@ archivePrefix = "arXiv",
 }
 
 @ARTICLE{2009PhRvL.103z1801V,
-   author = {{Vasilakis}, G. and {Brown}, J.~M. and {Kornack}, T.~W. and 
+   author = {{Vasilakis}, G. and {Brown}, J.~M. and {Kornack}, T.~W. and
 	{Romalis}, M.~V.},
     title = "{Limits on New Long Range Nuclear Spin-Dependent Forces Set with a K-He3 Comagnetometer}",
   journal = {Physical Review Letters},
@@ -615,7 +615,7 @@ archivePrefix = "arXiv",
 }
 
 @ARTICLE{2009PhLB..681..353F,
-   author = {{Fodor}, Z. and {Holland}, K. and {Kuti}, J. and {N{\'o}gr{\'a}di}, D. and 
+   author = {{Fodor}, Z. and {Holland}, K. and {Kuti}, J. and {N{\'o}gr{\'a}di}, D. and
 	{Schroeder}, C.},
     title = "{Nearly conformal gauge theories in finite volume}",
   journal = {Physics Letters B},
@@ -690,7 +690,7 @@ archivePrefix = "arXiv",
 }
 
 @ARTICLE{2009arXiv0911.2934F,
-   author = {{Fodor}, Z. and {Holland}, K. and {Kuti}, J. and {Nogradi}, D. and 
+   author = {{Fodor}, Z. and {Holland}, K. and {Kuti}, J. and {Nogradi}, D. and
 	{Schroeder}, C.},
     title = "{Calculating the running coupling in strong electroweak models}",
   journal = {ArXiv e-prints},
@@ -704,7 +704,7 @@ archivePrefix = "arXiv",
 }
 
 @ARTICLE{2009arXiv0911.2463F,
-   author = {{Fodor}, Z. and {Holland}, K. and {Kuti}, J. and {Nogradi}, D. and 
+   author = {{Fodor}, Z. and {Holland}, K. and {Kuti}, J. and {Nogradi}, D. and
 	{Schroeder}, C.},
     title = "{Chiral symmetry breaking in nearly conformal gauge theories}",
   journal = {ArXiv e-prints},
@@ -718,7 +718,7 @@ archivePrefix = "arXiv",
 }
 
 @ARTICLE{2009arXiv0911.1892B,
-   author = {{Barranco}, J. and {Bolanos}, A. and {Miranda}, O.~G. and {Moura}, C.~A. and 
+   author = {{Barranco}, J. and {Bolanos}, A. and {Miranda}, O.~G. and {Moura}, C.~A. and
 	{Rashba}, T.~I.},
     title = "{Neutrino phenomenology and unparticle physics}",
   journal = {ArXiv e-prints},
@@ -759,7 +759,7 @@ archivePrefix = "arXiv",
 }
 
 @ARTICLE{2009RvMP...81.1887B,
-   author = {{Browder}, T.~E. and {Gershon}, T. and {Pirjol}, D. and {Soni}, A. and 
+   author = {{Browder}, T.~E. and {Gershon}, T. and {Pirjol}, D. and {Soni}, A. and
 	{Zupan}, J.},
     title = "{New physics at a Super Flavor Factory}",
   journal = {Reviews of Modern Physics},
@@ -1026,7 +1026,7 @@ archivePrefix = "arXiv",
 }
 
 @ARTICLE{2009PhRvD..80c5015A,
-   author = {{Agarwal}, N. and {Kumar}, M.~C. and {Mathews}, P. and {Ravindran}, V. and 
+   author = {{Agarwal}, N. and {Kumar}, M.~C. and {Mathews}, P. and {Ravindran}, V. and
 	{Tripathi}, A.},
     title = "{Dijet production at the LHC through unparticles}",
   journal = {\prd},
@@ -1486,7 +1486,7 @@ archivePrefix = "arXiv",
 }
 
 @ARTICLE{2009JHEP...05..025H,
-   author = {{Hietanen}, A.~J. and {Rantaharju}, J. and {Rummukainen}, K. and 
+   author = {{Hietanen}, A.~J. and {Rantaharju}, J. and {Rummukainen}, K. and
 	{Tuominen}, K.},
     title = "{Spectrum of SU(2) lattice gauge theory with two adjoint Dirac flavours}",
   journal = {Journal of High Energy Physics},
@@ -1656,7 +1656,7 @@ archivePrefix = "arXiv",
 }
 
 @ARTICLE{2009PhRvD..79g3011B,
-   author = {{Barranco}, J. and {Bola{\~n}os}, A. and {Miranda}, O.~G. and 
+   author = {{Barranco}, J. and {Bola{\~n}os}, A. and {Miranda}, O.~G. and
 	{Moura}, C.~A. and {Rashba}, T.~I.},
     title = "{Unparticle physics and neutrino phenomenology}",
   journal = {\prd},
@@ -2015,7 +2015,7 @@ archivePrefix = "arXiv",
 }
 
 @ARTICLE{2009EPJC...59..899C,
-   author = {{Chen}, {S.-L.} and {He}, {X.-G.} and {Li}, {X.-Q.} and {Tsai}, {H.-C.} and 
+   author = {{Chen}, {S.-L.} and {He}, {X.-G.} and {Li}, {X.-Q.} and {Tsai}, {H.-C.} and
 	{Wei}, {Z.-T.}},
     title = "{Constraints on unparticle interactions from particle and antiparticle oscillations}",
   journal = {European Physical Journal C},
@@ -2031,7 +2031,7 @@ archivePrefix = "arXiv",
 }
 
 @ARTICLE{2009PrPNP..62..102A,
-   author = {{Adelberger}, E.~G. and {Gundlach}, J.~H. and {Heckel}, B.~R. and 
+   author = {{Adelberger}, E.~G. and {Gundlach}, J.~H. and {Heckel}, B.~R. and
 	{Hoedl}, S. and {Schlamminger}, S.},
     title = "{Torsion balance experiments: A low-energy frontier of particle physics}",
   journal = {Progress in Particle and Nuclear Physics},
@@ -2661,144 +2661,144 @@ archivePrefix = "arXiv",
 }
 
 @ARTICLE{2008PhRvD..78g2007A,
-   author = {{Aubert}, B. and {Bona}, M. and {Karyotakis}, Y. and {Lees}, J.~P. and 
-	{Poireau}, V. and {Prencipe}, E. and {Prudent}, X. and {Tisserand}, V. and 
-	{Tico}, J.~G. and {Grauges}, E. and {Lopez}, L. and {Palano}, A. and 
-	{Pappagallo}, M. and {Eigen}, G. and {Stugu}, B. and {Sun}, L. and 
-	{Abrams}, G.~S. and {Battaglia}, M. and {Brown}, D.~N. and {Cahn}, R.~N. and 
-	{Jacobsen}, R.~G. and {Kerth}, L.~T. and {Kolomensky}, Y.~G. and 
-	{Lynch}, G. and {Osipenkov}, I.~L. and {Ronan}, M.~T. and {Tackmann}, K. and 
-	{Tanabe}, T. and {Hawkes}, C.~M. and {Soni}, N. and {Watson}, A.~T. and 
-	{Koch}, H. and {Schroeder}, T. and {Walker}, D. and {Asgeirsson}, D.~J. and 
-	{Fulsom}, B.~G. and {Hearty}, C. and {Mattison}, T.~S. and {McKenna}, J.~A. and 
-	{Barrett}, M. and {Khan}, A. and {Blinov}, V.~E. and {Bukin}, A.~D. and 
-	{Buzykaev}, A.~R. and {Druzhinin}, V.~P. and {Golubev}, V.~B. and 
-	{Onuchin}, A.~P. and {Serednyakov}, S.~I. and {Skovpen}, Y.~I. and 
-	{Solodov}, E.~P. and {Todyshev}, K.~Y. and {Bondioli}, M. and 
-	{Curry}, S. and {Eschrich}, I. and {Kirkby}, D. and {Lankford}, A.~J. and 
-	{Lund}, P. and {Mandelkern}, M. and {Martin}, E.~C. and {Stoker}, D.~P. and 
-	{Abachi}, S. and {Buchanan}, C. and {Gary}, J.~W. and {Liu}, F. and 
-	{Long}, O. and {Shen}, B.~C. and {Vitug}, G.~M. and {Yasin}, Z. and 
-	{Zhang}, L. and {Sharma}, V. and {Campagnari}, C. and {Hong}, T.~M. and 
-	{Kovalskyi}, D. and {Mazur}, M.~A. and {Richman}, J.~D. and 
-	{Beck}, T.~W. and {Eisner}, A.~M. and {Flacco}, C.~J. and {Heusch}, C.~A. and 
-	{Kroseberg}, J. and {Lockman}, W.~S. and {Martinez}, A.~J. and 
-	{Schalk}, T. and {Schumm}, B.~A. and {Seiden}, A. and {Wilson}, M.~G. and 
-	{Winstrom}, L.~O. and {Cheng}, C.~H. and {Doll}, D.~A. and {Echenard}, B. and 
-	{Fang}, F. and {Hitlin}, D.~G. and {Narsky}, I. and {Piatenko}, T. and 
-	{Porter}, F.~C. and {Andreassen}, R. and {Mancinelli}, G. and 
-	{Meadows}, B.~T. and {Mishra}, K. and {Sokoloff}, M.~D. and 
-	{Bloom}, P.~C. and {Ford}, W.~T. and {Gaz}, A. and {Hirschauer}, J.~F. and 
-	{Nagel}, M. and {Nauenberg}, U. and {Smith}, J.~G. and {Ulmer}, K.~A. and 
-	{Wagner}, S.~R. and {Ayad}, R. and {Soffer}, A. and {Toki}, W.~H. and 
-	{Wilson}, R.~J. and {Altenburg}, D.~D. and {Feltresi}, E. and 
-	{Hauke}, A. and {Jasper}, H. and {Karbach}, M. and {Merkel}, J. and 
-	{Petzold}, A. and {Spaan}, B. and {Wacker}, K. and {Kobel}, M.~J. and 
-	{Mader}, W.~F. and {Nogowski}, R. and {Schubert}, K.~R. and 
-	{Schwierz}, R. and {Volk}, A. and {Bernard}, D. and {Bonneaud}, G.~R. and 
-	{Latour}, E. and {Verderi}, M. and {Clark}, P.~J. and {Playfer}, S. and 
-	{Watson}, J.~E. and {Andreotti}, M. and {Bettoni}, D. and {Bozzi}, C. and 
-	{Calabrese}, R. and {Cecchi}, A. and {Cibinetto}, G. and {Franchini}, P. and 
-	{Luppi}, E. and {Negrini}, M. and {Petrella}, A. and {Piemontese}, L. and 
-	{Santoro}, V. and {Baldini-Ferroli}, R. and {Calcaterra}, A. and 
-	{de Sangro}, R. and {Finocchiaro}, G. and {Pacetti}, S. and 
-	{Patteri}, P. and {Peruzzi}, I.~M. and {Piccolo}, M. and {Rama}, M. and 
-	{Zallo}, A. and {Buzzo}, A. and {Contri}, R. and {Lo Vetere}, M. and 
-	{Macri}, M.~M. and {Monge}, M.~R. and {Passaggio}, S. and {Patrignani}, C. and 
-	{Robutti}, E. and {Santroni}, A. and {Tosi}, S. and {Chaisanguanthum}, K.~S. and 
-	{Morii}, M. and {Adametz}, A. and {Marks}, J. and {Schenk}, S. and 
-	{Uwer}, U. and {Klose}, V. and {Lacker}, H.~M. and {Bard}, D.~J. and 
-	{Dauncey}, P.~D. and {Nash}, J.~A. and {Tibbetts}, M. and {Behera}, P.~K. and 
-	{Chai}, X. and {Charles}, M.~J. and {Mallik}, U. and {Cochran}, J. and 
-	{Crawley}, H.~B. and {Dong}, L. and {Meyer}, W.~T. and {Prell}, S. and 
-	{Rosenberg}, E.~I. and {Rubin}, A.~E. and {Gao}, Y.~Y. and {Gritsan}, A.~V. and 
-	{Guo}, Z.~J. and {Lae}, C.~K. and {Arnaud}, N. and {B{\'e}quilleux}, J. and 
-	{D'Orazio}, A. and {Davier}, M. and {da Costa}, J.~F. and {Grosdidier}, G. and 
-	{H{\"o}cker}, A. and {Lepeltier}, V. and {Le Diberder}, F. and 
-	{Lutz}, A.~M. and {Pruvot}, S. and {Roudeau}, P. and {Schune}, M.~H. and 
-	{Serrano}, J. and {Sordini}, V. and {Stocchi}, A. and {Wormser}, G. and 
-	{Lange}, D.~J. and {Wright}, D.~M. and {Bingham}, I. and {Burke}, J.~P. and 
-	{Chavez}, C.~A. and {Fry}, J.~R. and {Gabathuler}, E. and {Gamet}, R. and 
-	{Hutchcroft}, D.~E. and {Payne}, D.~J. and {Touramanis}, C. and 
-	{Bevan}, A.~J. and {Clarke}, C.~K. and {George}, K.~A. and {di Lodovico}, F. and 
-	{Sacco}, R. and {Sigamani}, M. and {Cowan}, G. and {Flaecher}, H.~U. and 
-	{Hopkins}, D.~A. and {Paramesvaran}, S. and {Salvatore}, F. and 
-	{Wren}, A.~C. and {Brown}, D.~N. and {Davis}, C.~L. and {Denig}, A.~G. and 
-	{Fritsch}, M. and {Gradl}, W. and {Schott}, G. and {Alwyn}, K.~E. and 
-	{Bailey}, D. and {Barlow}, R.~J. and {Chia}, Y.~M. and {Edgar}, C.~L. and 
-	{Jackson}, G. and {Lafferty}, G.~D. and {West}, T.~J. and {Yi}, J.~I. and 
-	{Anderson}, J. and {Chen}, C. and {Jawahery}, A. and {Roberts}, D.~A. and 
-	{Simi}, G. and {Tuggle}, J.~M. and {Dallapiccola}, C. and {Li}, X. and 
-	{Salvati}, E. and {Saremi}, S. and {Cowan}, R. and {Dujmic}, D. and 
-	{Fisher}, P.~H. and {Sciolla}, G. and {Spitznagel}, M. and {Taylor}, F. and 
-	{Yamamoto}, R.~K. and {Zhao}, M. and {Patel}, P.~M. and {Robertson}, S.~H. and 
-	{Lazzaro}, A. and {Lombardo}, V. and {Palombo}, F. and {Bauer}, J.~M. and 
-	{Cremaldi}, L. and {Godang}, R. and {Kroeger}, R. and {Sanders}, D.~A. and 
-	{Summers}, D.~J. and {Zhao}, H.~W. and {Simard}, M. and {Taras}, P. and 
-	{Viaud}, F.~B. and {Nicholson}, H. and {de Nardo}, G. and {Lista}, L. and 
-	{Monorchio}, D. and {Onorato}, G. and {Sciacca}, C. and {Raven}, G. and 
-	{Snoek}, H.~L. and {Jessop}, C.~P. and {Knoepfel}, K.~J. and 
-	{Losecco}, J.~M. and {Wang}, W.~F. and {Benelli}, G. and {Corwin}, L.~A. and 
-	{Honscheid}, K. and {Kagan}, H. and {Kass}, R. and {Morris}, J.~P. and 
-	{Rahimi}, A.~M. and {Regensburger}, J.~J. and {Sekula}, S.~J. and 
-	{Wong}, Q.~K. and {Blount}, N.~L. and {Brau}, J. and {Frey}, R. and 
-	{Igonkina}, O. and {Kolb}, J.~A. and {Lu}, M. and {Rahmat}, R. and 
-	{Sinev}, N.~B. and {Strom}, D. and {Strube}, J. and {Torrence}, E. and 
-	{Castelli}, G. and {Gagliardi}, N. and {Margoni}, M. and {Morandin}, M. and 
-	{Posocco}, M. and {Rotondo}, M. and {Simonetto}, F. and {Stroili}, R. and 
-	{Voci}, C. and {Del Amo Sanchez}, P. and {Ben-Haim}, E. and 
-	{Briand}, H. and {Calderini}, G. and {Chauveau}, J. and {David}, P. and 
-	{Del Buono}, L. and {Hamon}, O. and {Leruste}, P. and {Ocariz}, J. and 
-	{Perez}, A. and {Prendki}, J. and {Sitt}, S. and {Gladney}, L. and 
-	{Biasini}, M. and {Covarelli}, R. and {Manoni}, E. and {Angelini}, C. and 
-	{Batignani}, G. and {Bettarini}, S. and {Carpinelli}, M. and 
-	{Cervelli}, A. and {Forti}, F. and {Giorgi}, M.~A. and {Lusiani}, A. and 
-	{Marchiori}, G. and {Morganti}, M. and {Neri}, N. and {Paoloni}, E. and 
-	{Rizzo}, G. and {Walsh}, J.~J. and {Pegna}, D.~L. and {Lu}, C. and 
-	{Olsen}, J. and {Smith}, A.~J.~S. and {Telnov}, A.~V. and {Anulli}, F. and 
-	{Baracchini}, E. and {Cavoto}, G. and {Del Re}, D. and {di Marco}, E. and 
-	{Faccini}, R. and {Ferrarotto}, F. and {Ferroni}, F. and {Gaspero}, M. and 
-	{Jackson}, P.~D. and {Gioi}, L.~L. and {Mazzoni}, M.~A. and 
-	{Morganti}, S. and {Piredda}, G. and {Polci}, F. and {Renga}, F. and 
-	{Voena}, C. and {Ebert}, M. and {Hartmann}, T. and {Schr{\"o}der}, H. and 
-	{Waldi}, R. and {Adye}, T. and {Franek}, B. and {Olaiya}, E.~O. and 
-	{Wilson}, F.~F. and {Emery}, S. and {Escalier}, M. and {Esteve}, L. and 
-	{Ganzhur}, S.~F. and {de Monchenault}, G.~H. and {Kozanecki}, W. and 
-	{Vasseur}, G. and {Y{\`e}che}, C. and {Zito}, M. and {Chen}, X.~R. and 
-	{Liu}, H. and {Park}, W. and {Purohit}, M.~V. and {White}, R.~M. and 
-	{Wilson}, J.~R. and {Allen}, M.~T. and {Aston}, D. and {Bartoldus}, R. and 
-	{Bechtle}, P. and {Benitez}, J.~F. and {Cenci}, R. and {Coleman}, J.~P. and 
-	{Convery}, M.~R. and {Dingfelder}, J.~C. and {Dorfan}, J. and 
-	{Dubois-Felsmann}, G.~P. and {Dunwoodie}, W. and {Field}, R.~C. and 
-	{Gabareen}, A.~M. and {Gowdy}, S.~J. and {Graham}, M.~T. and 
-	{Grenier}, P. and {Hast}, C. and {Innes}, W.~R. and {Kaminski}, J. and 
-	{Kelsey}, M.~H. and {Kim}, H. and {Kim}, P. and {Kocian}, M.~L. and 
-	{Leith}, D.~W.~G.~S. and {Li}, S. and {Lindquist}, B. and {Luitz}, S. and 
-	{Luth}, V. and {Lynch}, H.~L. and {Macfarlane}, D.~B. and {Marsiske}, H. and 
-	{Messner}, R. and {Muller}, D.~R. and {Neal}, H. and {Nelson}, S. and 
-	{O'Grady}, C.~P. and {Ofte}, I. and {Perazzo}, A. and {Perl}, M. and 
-	{Ratcliff}, B.~N. and {Roodman}, A. and {Salnikov}, A.~A. and 
-	{Schindler}, R.~H. and {Schwiening}, J. and {Snyder}, A. and 
-	{Su}, D. and {Sullivan}, M.~K. and {Suzuki}, K. and {Swain}, S.~K. and 
-	{Thompson}, J.~M. and {Va'Vra}, J. and {Wagner}, A.~P. and {Weaver}, M. and 
-	{West}, C.~A. and {Wisniewski}, W.~J. and {Wittgen}, M. and 
-	{Wright}, D.~H. and {Wulsin}, H.~W. and {Yarritu}, A.~K. and 
-	{Yi}, K. and {Young}, C.~C. and {Ziegler}, V. and {Burchat}, P.~R. and 
-	{Edwards}, A.~J. and {Majewski}, S.~A. and {Miyashita}, T.~S. and 
-	{Petersen}, B.~A. and {Wilden}, L. and {Ahmed}, S. and {Alam}, M.~S. and 
-	{Ernst}, J.~A. and {Pan}, B. and {Saeed}, M.~A. and {Zain}, S.~B. and 
-	{Spanier}, S.~M. and {Wogsland}, B.~J. and {Eckmann}, R. and 
-	{Ritchie}, J.~L. and {Ruland}, A.~M. and {Schilling}, C.~J. and 
-	{Schwitters}, R.~F. and {Drummond}, B.~W. and {Izen}, J.~M. and 
-	{Lou}, X.~C. and {Bianchi}, F. and {Gamba}, D. and {Pelliccioni}, M. and 
-	{Bomben}, M. and {Bosisio}, L. and {Cartaro}, C. and {Della Ricca}, G. and 
-	{Lanceri}, L. and {Vitale}, L. and {Azzolini}, V. and {Lopez-March}, N. and 
-	{Martinez-Vidal}, F. and {Milanes}, D.~A. and {Oyanguren}, A. and 
-	{Albert}, J. and {Banerjee}, S. and {Bhuyan}, B. and {Choi}, H.~H.~F. and 
-	{Hamano}, K. and {Kowalewski}, R. and {Lewczuk}, M.~J. and {Nugent}, I.~M. and 
-	{Roney}, J.~M. and {Sobie}, R.~J. and {Gershon}, T.~J. and {Harrison}, P.~F. and 
-	{Ilic}, J. and {Latham}, T.~E. and {Mohanty}, G.~B. and {Band}, H.~R. and 
-	{Chen}, X. and {Dasu}, S. and {Flood}, K.~T. and {Pan}, Y. and 
+   author = {{Aubert}, B. and {Bona}, M. and {Karyotakis}, Y. and {Lees}, J.~P. and
+	{Poireau}, V. and {Prencipe}, E. and {Prudent}, X. and {Tisserand}, V. and
+	{Tico}, J.~G. and {Grauges}, E. and {Lopez}, L. and {Palano}, A. and
+	{Pappagallo}, M. and {Eigen}, G. and {Stugu}, B. and {Sun}, L. and
+	{Abrams}, G.~S. and {Battaglia}, M. and {Brown}, D.~N. and {Cahn}, R.~N. and
+	{Jacobsen}, R.~G. and {Kerth}, L.~T. and {Kolomensky}, Y.~G. and
+	{Lynch}, G. and {Osipenkov}, I.~L. and {Ronan}, M.~T. and {Tackmann}, K. and
+	{Tanabe}, T. and {Hawkes}, C.~M. and {Soni}, N. and {Watson}, A.~T. and
+	{Koch}, H. and {Schroeder}, T. and {Walker}, D. and {Asgeirsson}, D.~J. and
+	{Fulsom}, B.~G. and {Hearty}, C. and {Mattison}, T.~S. and {McKenna}, J.~A. and
+	{Barrett}, M. and {Khan}, A. and {Blinov}, V.~E. and {Bukin}, A.~D. and
+	{Buzykaev}, A.~R. and {Druzhinin}, V.~P. and {Golubev}, V.~B. and
+	{Onuchin}, A.~P. and {Serednyakov}, S.~I. and {Skovpen}, Y.~I. and
+	{Solodov}, E.~P. and {Todyshev}, K.~Y. and {Bondioli}, M. and
+	{Curry}, S. and {Eschrich}, I. and {Kirkby}, D. and {Lankford}, A.~J. and
+	{Lund}, P. and {Mandelkern}, M. and {Martin}, E.~C. and {Stoker}, D.~P. and
+	{Abachi}, S. and {Buchanan}, C. and {Gary}, J.~W. and {Liu}, F. and
+	{Long}, O. and {Shen}, B.~C. and {Vitug}, G.~M. and {Yasin}, Z. and
+	{Zhang}, L. and {Sharma}, V. and {Campagnari}, C. and {Hong}, T.~M. and
+	{Kovalskyi}, D. and {Mazur}, M.~A. and {Richman}, J.~D. and
+	{Beck}, T.~W. and {Eisner}, A.~M. and {Flacco}, C.~J. and {Heusch}, C.~A. and
+	{Kroseberg}, J. and {Lockman}, W.~S. and {Martinez}, A.~J. and
+	{Schalk}, T. and {Schumm}, B.~A. and {Seiden}, A. and {Wilson}, M.~G. and
+	{Winstrom}, L.~O. and {Cheng}, C.~H. and {Doll}, D.~A. and {Echenard}, B. and
+	{Fang}, F. and {Hitlin}, D.~G. and {Narsky}, I. and {Piatenko}, T. and
+	{Porter}, F.~C. and {Andreassen}, R. and {Mancinelli}, G. and
+	{Meadows}, B.~T. and {Mishra}, K. and {Sokoloff}, M.~D. and
+	{Bloom}, P.~C. and {Ford}, W.~T. and {Gaz}, A. and {Hirschauer}, J.~F. and
+	{Nagel}, M. and {Nauenberg}, U. and {Smith}, J.~G. and {Ulmer}, K.~A. and
+	{Wagner}, S.~R. and {Ayad}, R. and {Soffer}, A. and {Toki}, W.~H. and
+	{Wilson}, R.~J. and {Altenburg}, D.~D. and {Feltresi}, E. and
+	{Hauke}, A. and {Jasper}, H. and {Karbach}, M. and {Merkel}, J. and
+	{Petzold}, A. and {Spaan}, B. and {Wacker}, K. and {Kobel}, M.~J. and
+	{Mader}, W.~F. and {Nogowski}, R. and {Schubert}, K.~R. and
+	{Schwierz}, R. and {Volk}, A. and {Bernard}, D. and {Bonneaud}, G.~R. and
+	{Latour}, E. and {Verderi}, M. and {Clark}, P.~J. and {Playfer}, S. and
+	{Watson}, J.~E. and {Andreotti}, M. and {Bettoni}, D. and {Bozzi}, C. and
+	{Calabrese}, R. and {Cecchi}, A. and {Cibinetto}, G. and {Franchini}, P. and
+	{Luppi}, E. and {Negrini}, M. and {Petrella}, A. and {Piemontese}, L. and
+	{Santoro}, V. and {Baldini-Ferroli}, R. and {Calcaterra}, A. and
+	{de Sangro}, R. and {Finocchiaro}, G. and {Pacetti}, S. and
+	{Patteri}, P. and {Peruzzi}, I.~M. and {Piccolo}, M. and {Rama}, M. and
+	{Zallo}, A. and {Buzzo}, A. and {Contri}, R. and {Lo Vetere}, M. and
+	{Macri}, M.~M. and {Monge}, M.~R. and {Passaggio}, S. and {Patrignani}, C. and
+	{Robutti}, E. and {Santroni}, A. and {Tosi}, S. and {Chaisanguanthum}, K.~S. and
+	{Morii}, M. and {Adametz}, A. and {Marks}, J. and {Schenk}, S. and
+	{Uwer}, U. and {Klose}, V. and {Lacker}, H.~M. and {Bard}, D.~J. and
+	{Dauncey}, P.~D. and {Nash}, J.~A. and {Tibbetts}, M. and {Behera}, P.~K. and
+	{Chai}, X. and {Charles}, M.~J. and {Mallik}, U. and {Cochran}, J. and
+	{Crawley}, H.~B. and {Dong}, L. and {Meyer}, W.~T. and {Prell}, S. and
+	{Rosenberg}, E.~I. and {Rubin}, A.~E. and {Gao}, Y.~Y. and {Gritsan}, A.~V. and
+	{Guo}, Z.~J. and {Lae}, C.~K. and {Arnaud}, N. and {B{\'e}quilleux}, J. and
+	{D'Orazio}, A. and {Davier}, M. and {da Costa}, J.~F. and {Grosdidier}, G. and
+	{H{\"o}cker}, A. and {Lepeltier}, V. and {Le Diberder}, F. and
+	{Lutz}, A.~M. and {Pruvot}, S. and {Roudeau}, P. and {Schune}, M.~H. and
+	{Serrano}, J. and {Sordini}, V. and {Stocchi}, A. and {Wormser}, G. and
+	{Lange}, D.~J. and {Wright}, D.~M. and {Bingham}, I. and {Burke}, J.~P. and
+	{Chavez}, C.~A. and {Fry}, J.~R. and {Gabathuler}, E. and {Gamet}, R. and
+	{Hutchcroft}, D.~E. and {Payne}, D.~J. and {Touramanis}, C. and
+	{Bevan}, A.~J. and {Clarke}, C.~K. and {George}, K.~A. and {di Lodovico}, F. and
+	{Sacco}, R. and {Sigamani}, M. and {Cowan}, G. and {Flaecher}, H.~U. and
+	{Hopkins}, D.~A. and {Paramesvaran}, S. and {Salvatore}, F. and
+	{Wren}, A.~C. and {Brown}, D.~N. and {Davis}, C.~L. and {Denig}, A.~G. and
+	{Fritsch}, M. and {Gradl}, W. and {Schott}, G. and {Alwyn}, K.~E. and
+	{Bailey}, D. and {Barlow}, R.~J. and {Chia}, Y.~M. and {Edgar}, C.~L. and
+	{Jackson}, G. and {Lafferty}, G.~D. and {West}, T.~J. and {Yi}, J.~I. and
+	{Anderson}, J. and {Chen}, C. and {Jawahery}, A. and {Roberts}, D.~A. and
+	{Simi}, G. and {Tuggle}, J.~M. and {Dallapiccola}, C. and {Li}, X. and
+	{Salvati}, E. and {Saremi}, S. and {Cowan}, R. and {Dujmic}, D. and
+	{Fisher}, P.~H. and {Sciolla}, G. and {Spitznagel}, M. and {Taylor}, F. and
+	{Yamamoto}, R.~K. and {Zhao}, M. and {Patel}, P.~M. and {Robertson}, S.~H. and
+	{Lazzaro}, A. and {Lombardo}, V. and {Palombo}, F. and {Bauer}, J.~M. and
+	{Cremaldi}, L. and {Godang}, R. and {Kroeger}, R. and {Sanders}, D.~A. and
+	{Summers}, D.~J. and {Zhao}, H.~W. and {Simard}, M. and {Taras}, P. and
+	{Viaud}, F.~B. and {Nicholson}, H. and {de Nardo}, G. and {Lista}, L. and
+	{Monorchio}, D. and {Onorato}, G. and {Sciacca}, C. and {Raven}, G. and
+	{Snoek}, H.~L. and {Jessop}, C.~P. and {Knoepfel}, K.~J. and
+	{Losecco}, J.~M. and {Wang}, W.~F. and {Benelli}, G. and {Corwin}, L.~A. and
+	{Honscheid}, K. and {Kagan}, H. and {Kass}, R. and {Morris}, J.~P. and
+	{Rahimi}, A.~M. and {Regensburger}, J.~J. and {Sekula}, S.~J. and
+	{Wong}, Q.~K. and {Blount}, N.~L. and {Brau}, J. and {Frey}, R. and
+	{Igonkina}, O. and {Kolb}, J.~A. and {Lu}, M. and {Rahmat}, R. and
+	{Sinev}, N.~B. and {Strom}, D. and {Strube}, J. and {Torrence}, E. and
+	{Castelli}, G. and {Gagliardi}, N. and {Margoni}, M. and {Morandin}, M. and
+	{Posocco}, M. and {Rotondo}, M. and {Simonetto}, F. and {Stroili}, R. and
+	{Voci}, C. and {Del Amo Sanchez}, P. and {Ben-Haim}, E. and
+	{Briand}, H. and {Calderini}, G. and {Chauveau}, J. and {David}, P. and
+	{Del Buono}, L. and {Hamon}, O. and {Leruste}, P. and {Ocariz}, J. and
+	{Perez}, A. and {Prendki}, J. and {Sitt}, S. and {Gladney}, L. and
+	{Biasini}, M. and {Covarelli}, R. and {Manoni}, E. and {Angelini}, C. and
+	{Batignani}, G. and {Bettarini}, S. and {Carpinelli}, M. and
+	{Cervelli}, A. and {Forti}, F. and {Giorgi}, M.~A. and {Lusiani}, A. and
+	{Marchiori}, G. and {Morganti}, M. and {Neri}, N. and {Paoloni}, E. and
+	{Rizzo}, G. and {Walsh}, J.~J. and {Pegna}, D.~L. and {Lu}, C. and
+	{Olsen}, J. and {Smith}, A.~J.~S. and {Telnov}, A.~V. and {Anulli}, F. and
+	{Baracchini}, E. and {Cavoto}, G. and {Del Re}, D. and {di Marco}, E. and
+	{Faccini}, R. and {Ferrarotto}, F. and {Ferroni}, F. and {Gaspero}, M. and
+	{Jackson}, P.~D. and {Gioi}, L.~L. and {Mazzoni}, M.~A. and
+	{Morganti}, S. and {Piredda}, G. and {Polci}, F. and {Renga}, F. and
+	{Voena}, C. and {Ebert}, M. and {Hartmann}, T. and {Schr{\"o}der}, H. and
+	{Waldi}, R. and {Adye}, T. and {Franek}, B. and {Olaiya}, E.~O. and
+	{Wilson}, F.~F. and {Emery}, S. and {Escalier}, M. and {Esteve}, L. and
+	{Ganzhur}, S.~F. and {de Monchenault}, G.~H. and {Kozanecki}, W. and
+	{Vasseur}, G. and {Y{\`e}che}, C. and {Zito}, M. and {Chen}, X.~R. and
+	{Liu}, H. and {Park}, W. and {Purohit}, M.~V. and {White}, R.~M. and
+	{Wilson}, J.~R. and {Allen}, M.~T. and {Aston}, D. and {Bartoldus}, R. and
+	{Bechtle}, P. and {Benitez}, J.~F. and {Cenci}, R. and {Coleman}, J.~P. and
+	{Convery}, M.~R. and {Dingfelder}, J.~C. and {Dorfan}, J. and
+	{Dubois-Felsmann}, G.~P. and {Dunwoodie}, W. and {Field}, R.~C. and
+	{Gabareen}, A.~M. and {Gowdy}, S.~J. and {Graham}, M.~T. and
+	{Grenier}, P. and {Hast}, C. and {Innes}, W.~R. and {Kaminski}, J. and
+	{Kelsey}, M.~H. and {Kim}, H. and {Kim}, P. and {Kocian}, M.~L. and
+	{Leith}, D.~W.~G.~S. and {Li}, S. and {Lindquist}, B. and {Luitz}, S. and
+	{Luth}, V. and {Lynch}, H.~L. and {Macfarlane}, D.~B. and {Marsiske}, H. and
+	{Messner}, R. and {Muller}, D.~R. and {Neal}, H. and {Nelson}, S. and
+	{O'Grady}, C.~P. and {Ofte}, I. and {Perazzo}, A. and {Perl}, M. and
+	{Ratcliff}, B.~N. and {Roodman}, A. and {Salnikov}, A.~A. and
+	{Schindler}, R.~H. and {Schwiening}, J. and {Snyder}, A. and
+	{Su}, D. and {Sullivan}, M.~K. and {Suzuki}, K. and {Swain}, S.~K. and
+	{Thompson}, J.~M. and {Va'Vra}, J. and {Wagner}, A.~P. and {Weaver}, M. and
+	{West}, C.~A. and {Wisniewski}, W.~J. and {Wittgen}, M. and
+	{Wright}, D.~H. and {Wulsin}, H.~W. and {Yarritu}, A.~K. and
+	{Yi}, K. and {Young}, C.~C. and {Ziegler}, V. and {Burchat}, P.~R. and
+	{Edwards}, A.~J. and {Majewski}, S.~A. and {Miyashita}, T.~S. and
+	{Petersen}, B.~A. and {Wilden}, L. and {Ahmed}, S. and {Alam}, M.~S. and
+	{Ernst}, J.~A. and {Pan}, B. and {Saeed}, M.~A. and {Zain}, S.~B. and
+	{Spanier}, S.~M. and {Wogsland}, B.~J. and {Eckmann}, R. and
+	{Ritchie}, J.~L. and {Ruland}, A.~M. and {Schilling}, C.~J. and
+	{Schwitters}, R.~F. and {Drummond}, B.~W. and {Izen}, J.~M. and
+	{Lou}, X.~C. and {Bianchi}, F. and {Gamba}, D. and {Pelliccioni}, M. and
+	{Bomben}, M. and {Bosisio}, L. and {Cartaro}, C. and {Della Ricca}, G. and
+	{Lanceri}, L. and {Vitale}, L. and {Azzolini}, V. and {Lopez-March}, N. and
+	{Martinez-Vidal}, F. and {Milanes}, D.~A. and {Oyanguren}, A. and
+	{Albert}, J. and {Banerjee}, S. and {Bhuyan}, B. and {Choi}, H.~H.~F. and
+	{Hamano}, K. and {Kowalewski}, R. and {Lewczuk}, M.~J. and {Nugent}, I.~M. and
+	{Roney}, J.~M. and {Sobie}, R.~J. and {Gershon}, T.~J. and {Harrison}, P.~F. and
+	{Ilic}, J. and {Latham}, T.~E. and {Mohanty}, G.~B. and {Band}, H.~R. and
+	{Chen}, X. and {Dasu}, S. and {Flood}, K.~T. and {Pan}, Y. and
 	{Pierini}, M. and {Prepost}, R. and {Vuosalo}, C.~O. and {Wu}, S.~L.
 	},
     title = "{Search for B{\rarr}K^{*}{$\nu$}{$\nu$}{\macr} decays}",
@@ -3123,7 +3123,7 @@ archivePrefix = "arXiv",
 }
 
 @ARTICLE{2008PhRvD..78a5008F,
-   author = {{Fujii}, K. and {Hano}, H. and {Itoh}, H. and {Okada}, N. and 
+   author = {{Fujii}, K. and {Hano}, H. and {Itoh}, H. and {Okada}, N. and
 	{Yoshioka}, T.},
     title = "{Hidden particle production at the ILC}",
   journal = {\prd},
@@ -3356,7 +3356,7 @@ archivePrefix = "arXiv",
 }
 
 @ARTICLE{2008JHEP...06..007D,
-   author = {{DelDebbio}, L. and {Frandsen}, M.~T. and {Panagopoulos}, H. and 
+   author = {{DelDebbio}, L. and {Frandsen}, M.~T. and {Panagopoulos}, H. and
 	{Sannino}, F.},
     title = "{Higher representations on the lattice: perturbative studies}",
   journal = {Journal of High Energy Physics},
@@ -3562,7 +3562,7 @@ archivePrefix = "arXiv",
 }
 
 @ARTICLE{2008JHEP...05..090K,
-   author = {{Klebanov}, I.~R. and {Murugan}, A. and {Rodr{\'{\i}}guez-G{\'o}mez}, D. and 
+   author = {{Klebanov}, I.~R. and {Murugan}, A. and {Rodr{\'{\i}}guez-G{\'o}mez}, D. and
 	{Ward}, J.},
     title = "{Goldstone bosons and global strings in a warped resolved conifold}",
   journal = {Journal of High Energy Physics},
@@ -3700,7 +3700,7 @@ archivePrefix = "arXiv",
 }
 
 @ARTICLE{2008PhRvD..77g3010G,
-   author = {{Giffels}, M. and {Kallarackal}, J. and {Kr{\"a}mer}, M. and 
+   author = {{Giffels}, M. and {Kallarackal}, J. and {Kr{\"a}mer}, M. and
 	{O'Leary}, B. and {Stahl}, A.},
     title = "{Lepton-flavor-violating decay {$\tau$}{\rarr}{$\mu$}{$\mu$}{$\mu$}{\macr} at the CERN LHC}",
   journal = {\prd},
@@ -3748,7 +3748,7 @@ archivePrefix = "arXiv",
 }
 
 @ARTICLE{2008PhLB..662...66A,
-   author = {{Alberghi}, G.~L. and {Kamenshchik}, A.~Y. and {Tronconi}, A. and 
+   author = {{Alberghi}, G.~L. and {Kamenshchik}, A.~Y. and {Tronconi}, A. and
 	{Vacca}, G.~P. and {Venturi}, G.},
     title = "{Cosmological unparticle correlators}",
   journal = {Physics Letters B},
@@ -3795,7 +3795,7 @@ archivePrefix = "arXiv",
 }
 
 @ARTICLE{2008arXiv0804.4782A,
-   author = {{Alberghi}, G.~L. and {Kamenshchik}, A.~Y. and {Tronconi}, A. and 
+   author = {{Alberghi}, G.~L. and {Kamenshchik}, A.~Y. and {Tronconi}, A. and
 	{Vacca}, G.~P. and {Venturi}, G.},
     title = "{Vacuum Energy and Standard Model Physics}",
   journal = {ArXiv e-prints},
@@ -3868,7 +3868,7 @@ archivePrefix = "arXiv",
 }
 
 @ARTICLE{2008PhLB..661..276B,
-   author = {{Barger}, V. and {Gao}, Y. and {Keung}, {W.-Y.} and {Marfatia}, D. and 
+   author = {{Barger}, V. and {Gao}, Y. and {Keung}, {W.-Y.} and {Marfatia}, D. and
 	{{\c S}eno{\u g}uz}, V.~N.},
     title = "{Unparticle physics with broken scale invariance}",
   journal = {Physics Letters B},
@@ -4018,7 +4018,7 @@ archivePrefix = "arXiv",
 }
 
 @ARTICLE{2008PhRvD..77c5014L,
-   author = {{Liu}, X. and {Ke}, {H.-W.} and {Qiao}, {Q.-P.} and {Wei}, {Z.-T.} and 
+   author = {{Liu}, X. and {Ke}, {H.-W.} and {Qiao}, {Q.-P.} and {Wei}, {Z.-T.} and
 	{Li}, {X.-Q.}},
     title = "{Possibility of search for new physics at the CERN LHCb}",
   journal = {\prd},
@@ -4082,7 +4082,7 @@ archivePrefix = "arXiv",
 }
 
 @ARTICLE{2008JETPL..88..705A,
-   author = {{Alberghi}, G.~L. and {Kamenshchik}, A.~Y. and {Tronconi}, A. and 
+   author = {{Alberghi}, G.~L. and {Kamenshchik}, A.~Y. and {Tronconi}, A. and
 	{Vacca}, G.~P. and {Venturi}, G.},
     title = "{Vacuum energy, cosmological constant and Standard Model physics}",
   journal = {Soviet Journal of Experimental and Theoretical Physics Letters},
@@ -4476,7 +4476,7 @@ archivePrefix = "arXiv",
 }
 
 @ARTICLE{2007PhLB..657..232B,
-   author = {{Bili{\'c}}, N. and {Guberina}, B. and {Horvat}, R. and {Nikoli{\'c}}, H. and 
+   author = {{Bili{\'c}}, N. and {Guberina}, B. and {Horvat}, R. and {Nikoli{\'c}}, H. and
 	{{\v S}tefan{\v c}i{\'c}}, H.},
     title = "{On cosmological implications of gravitational trace anomaly}",
   journal = {Physics Letters B},
